@@ -15,5 +15,5 @@ People in the house: 3
 
 What do you do?
 
-Take the case
-Ignore it and relax
+[Take the case](situations/house.md)
+[Ignore it and relax](situations/fired)
