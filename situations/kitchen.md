@@ -1,6 +1,5 @@
 # Kitchen
 
-You are in the kitchen and notice nothing unusual. But you see a chef. What will you do?
+You are in the kitchen and notice nothing unusual. But you see a chef, go talk to him.   
 
-[Talk to the chef](chef.md)   
-[Leave kitchen and observe living room](living-room.md)
+[Talk to the chef](chef.md)
