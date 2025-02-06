@@ -1,4 +1,4 @@
-Kitchen
+# Kitchen
 
 You are in the kitchen and notice nothing unusual. But you see a chef. What will you do?
 
