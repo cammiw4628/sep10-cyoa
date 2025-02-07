@@ -1,5 +1,5 @@
 # Kitchen
 
-You are in the kitchen and notice nothing unusual. But you see a chef, go talk to him.   
+You are in the kitchen and notice nothing unusual. You see a chef and ignore him for some reason to head to the bedroom.
 
-[Talk to the chef](chef.md)
+[Go to bedroom](bedroom.md)
