@@ -8,10 +8,4 @@ Bulter:
 
 Meanwhile you're here you deicde to talk to the maid as well.
 
-Maid:
-
-"I got off shift at 9:15pm and started preparing to head out. While I was getting my stuff on the 1st floor, I heard many thuds coming from the bedroom. It sounded like people fighting and screaming so I went running up to check what was happening, when I entered I saw the bulter in the room looking panicked."
-
-You need more information and deicide to go to the living room
-
-[Go to living room](living-room.md)
+[Talk to maid](maid.md)
