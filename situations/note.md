@@ -6,4 +6,4 @@ The victim wrote "I don't know why but I have a feeling I am in danger. I feel l
 
 You need more information, so you check the bedroom.
 
-[Guess who the murderer is]()
+[Guess who the murderer is](guessmurder.md)
