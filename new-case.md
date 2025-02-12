@@ -14,9 +14,9 @@ Estimated time of death: 9:34pm
 
 Murder room: Bedroom
 
-People in the house: 3
+Number of suspects: 3
 
 What do you do?
 
-[Take the case](situations/house.md)              
+[Take the case](situations/house.md)
 [Ignore it and relax](situations/fired.md)

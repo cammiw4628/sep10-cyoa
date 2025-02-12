@@ -1,10 +1,10 @@
 # Victim's House
 
-You arrive to the vistim's house, It's a big 3 floor tall masion. You walk inside of the masion.
+You arrive at the victim's house. It's a big, 3-floor tall mansion. You walk inside of the mansion.
 
 You are now inside the house where the victim passed away in.
 
-Where do you wanna go first?
+Where do you want to go first?
 
-[Check Kitchen](kitchen.md)   
+[Check Kitchen](kitchen.md)
 [Check Bedroom](bedroom.md)

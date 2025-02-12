@@ -1,7 +1,9 @@
 # Who is it?
 
-Chef
+You think you have enough clues now; who do you think it is?
 
-Butler
+[Chef](guessed-chef.md)
 
-Maid
+[Butler](guessed-bulter.md)
+
+[Maid](guessed-maid.md)
