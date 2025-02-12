@@ -4,4 +4,4 @@ You got fired because your boss was angry that you wanted to relax after taking 
 
 Try again?
 
-(Find a new detective job)[../new-case.md]
+[Find a new detective job)(../new-case.md)
