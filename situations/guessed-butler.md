@@ -4,4 +4,4 @@ You have decided the butler was responsible for the killing and arrested him. Ti
 
 Your boss decides to give you a raise for your successful case and gives you a new case to investigate!
 
-[Take a look at the new case](new-case.md)
+[Take a look at the new case](../new-case.md)
