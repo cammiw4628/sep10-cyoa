@@ -1,4 +1,4 @@
-# Bulter
+# Butler
 
 You start talking to the butler and ask his side of the story.
 
