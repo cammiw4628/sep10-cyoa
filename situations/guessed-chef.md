@@ -4,4 +4,4 @@ You have decided the chef was responsible for the killing and arrested him. Afte
 
 Due to your failed attempt at figuring out who it was, your boss fires you because the chef sued for wrongful imprisonment!
 
-[Find a new job](new-case.md)
+[Find a new job](../new-case.md)
