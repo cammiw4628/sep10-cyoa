@@ -4,4 +4,4 @@ You have decided the maid was responsible for the killing and arrested her. Afte
 
 Due to your failed attempt at figuring out who it was, your boss fires you because the maid sued for wrongful imprisonment!
 
-[Find a new job](new-case.md)
+[Find a new job](../new-case.md)
